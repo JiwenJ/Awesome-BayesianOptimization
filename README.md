@@ -13,3 +13,4 @@
 - https://www.coursera.org/projects/ml-parameters-optimization-gridsearch-bayesian-random
 
 ### Books
+- https://github.com/JiwenJ/Public-Books/tree/main/bo
